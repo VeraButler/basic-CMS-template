@@ -15,4 +15,4 @@
 - clone the repository into a new folder on your local machine
 - depending on your web hosting server you may need to change the host path
 - in CMS.php enter your database username and password
-- Issues? Submit an issue (https://github.com/VeraButler/basic-CMS-template/issues)[here]
+- Issues? Submit an issue [here](https://github.com/VeraButler/basic-CMS-template/issues)
